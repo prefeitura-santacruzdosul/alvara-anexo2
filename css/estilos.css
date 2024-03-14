@@ -1,0 +1,32 @@
+.tfield
+{
+	 border: solid;
+	 border-color: #a0a0a0;
+	 border-width: 1px;
+	 z-index: 1;
+}
+.tfield_disabled
+{
+	 border: solid;
+	 border-color: #a0a0a0;
+	 border-width: 1px;
+	 background-color: #e0e0e0;
+	 color: #000000;
+}
+.tbigfield
+{
+	 border: solid;
+	 border-color: #a0a0a0;
+	 border-width: 1px;
+	 z-index: 1;
+	 font-size: 18pt;
+}
+.tbigfield_disabled
+{
+	 border: solid;
+	 border-color: #a0a0a0;
+	 border-width: 1px;
+	 background-color: #e0e0e0;
+	 color: #000000;
+	 font-size: 18pt;
+}
